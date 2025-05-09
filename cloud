@@ -1,0 +1,8 @@
+login Vm 1  and vm 2 
+ifconfig
+ls
+touch send.txt 
+nano send.txt
+ls
+cat send.txt
+scp send.txt username@ip address@:/home/username
